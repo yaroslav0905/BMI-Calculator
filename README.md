@@ -8,7 +8,12 @@ Learn to Code While Building Apps - The Complete iOS Development Bootcamp
 Ссылка на курс https://www.udemy.com/course/ios-13-app-development-bootcamp/
 
  Прошел на уроке
-+ 
++ классы и наследствование
++ структуры и классы
++ UIViewController
++ MVC
++ UIKid
++ опционалы 
 
 
 #Описание проекта
